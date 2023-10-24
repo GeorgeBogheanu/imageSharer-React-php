@@ -63,4 +63,5 @@
 
 
 ## Screenshots
-![DataBase Screenshot]((https://github.com/GeorgeBogheanu/imageSharer-React-php/assets/126707485/827337f1-bd49-485d-88f1-d2d0ff4fc666)
+![DataBase Screenshot](https://github.com/GeorgeBogheanu/imageSharer-React-php/assets/126707485/827337f1-bd49-485d-88f1-d2d0ff4fc666)
+![Feed Screen](https://github.com/GeorgeBogheanu/imageSharer-React-php/assets/126707485/43e84f52-f712-4480-b96d-0444115a77b2)
