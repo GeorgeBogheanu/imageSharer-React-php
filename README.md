@@ -1,4 +1,4 @@
-# REACT+PHP+MYSQL
+
 <h2>Image Sharer</h2>
 <p>ImageSharer is a web application that allows users to share their favorite images along with descriptions. Built using React for the frontend, PHP for the backend, and MySQL for data storage.</p>
 <p>The project showcases a RESTful API created with PHP, serving as the backend for ImageSharer. This API powers the communication between the frontend and the MySQL database, enabling smooth interactions and real-time updates.</p>
